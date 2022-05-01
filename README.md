@@ -10,8 +10,8 @@
 <img src="images/html.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 <img src="images/css.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="images/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="images/react.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-<img src="images/github.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+<img src="images/react.svg" title="react" alt="react" width="38" height="38"/>&nbsp;
+<img src="images/github.svg" title="git" alt="git" width="38" height="38"/>&nbsp;
 <img src="images/sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 
 
