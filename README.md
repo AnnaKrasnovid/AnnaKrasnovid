@@ -12,7 +12,7 @@
 <img src="images/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="images/react.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
 <img src="images/github.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-<!--<img src="images/sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;-->
+<img src="images/sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 
 
 <!--<a href= "https://www.instagram.com/">
