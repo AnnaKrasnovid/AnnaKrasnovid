@@ -14,7 +14,7 @@
 <img src="images/github.svg" title="git" alt="git" width="38" height="38"/>&nbsp;
 <img src="images/sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 
-
+<img src="https://www.codewars.com/users/AnnaKrasnovid/badges/small"/>
 <!--<a href= "https://www.instagram.com/">
 <img src="images/telegram.svg" title="telegram" alt="telegram" width="20" height="20"/>
 </a>&nbsp;
