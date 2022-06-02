@@ -1,6 +1,6 @@
 ## Привет &#128075;, меня зовут Аня
 	
-&#128526; Начинающий фротенд-разработчик  
+&#128526;Фротенд-разработчик  
 &#127919; Много учусь и решаю задачки на CodeWars  
 &#9997; В свободное время делаю pet project  
 &#128187; Хочу писать читабельный код и работать в крутой команде разработчиков
@@ -15,10 +15,11 @@
 <img src="images/sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 
 <img src="https://www.codewars.com/users/AnnaKrasnovid/badges/small"/>
-<!--<a href= "https://www.instagram.com/">
-<img src="images/telegram.svg" title="telegram" alt="telegram" width="20" height="20"/>
+<a href= "https://t.me/AnnaKrasnovid"> &nbsp;  
+  
+<img src="images/telegram.svg" title="telegram" alt="telegram" width="30" height="30" />
 </a>&nbsp;
-<a href= "https://www.instagram.com/">
+<!--<a href= "https://www.instagram.com/">
 <img src="images/Whatsapp.svg" title="Whatsapp" alt="Whatsapp" width="20" height="20"/>
 </a>&nbsp;
 <a href= "https://www.instagram.com/">
