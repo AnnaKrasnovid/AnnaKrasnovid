@@ -10,6 +10,9 @@
 <img src="images/react.svg" title="react" alt="react" width="38" height="38"/>&nbsp;
 <img src="images/github.svg" title="git" alt="git" width="38" height="38"/>&nbsp;
 <img src="images/sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+<img src="images/bootstrap.svg" title="git" alt="git" width="38" height="38"/>&nbsp;
+<img src="images/webpack.svg" title="sass" alt="sass" width="36" height="36"/>&nbsp;
+<img src="images/pug.png" title="sass" alt="sass" width="38" height="38"/>&nbsp;
 
 <img src="https://www.codewars.com/users/AnnaKrasnovid/badges/small"/>
 <a href= "https://t.me/AnnaKrasnovid"> &nbsp;  
