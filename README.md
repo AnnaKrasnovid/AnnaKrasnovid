@@ -20,6 +20,9 @@
 <a href="#">
   <img src="images/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;  
 </a>
+<a href="https://www.typescriptlang.org/">
+    <img src="images/typescript.svg" title="typescript" alt="sass" width="36" height="36"/>
+</a>
 <a href="https://reactjs.org/">
     <img src="images/react.svg" title="react" alt="react" width="38" height="38"/>&nbsp;
 </a>
@@ -37,9 +40,6 @@
 </a>
 
 ### Базовые знания:
-<a href="https://www.typescriptlang.org/">
-    <img src="images/typescript.svg" title="typescript" alt="sass" width="36" height="36"/>
-</a>
 <a href="https://redux.js.org/">
    <img src="images/redux.svg" title="redux" alt="sass" width="38" height="38"/>
 </a>
